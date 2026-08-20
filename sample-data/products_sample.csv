@@ -1,0 +1,6 @@
+product_id,product_code,product_name,product_family,standard_cycle_time_sec,unit_weight_kg,active
+1,P1001,Motor Housing A,Motor Housing,42.00,2.800,t
+2,P1002,Motor Housing B,Motor Housing,48.00,3.400,t
+3,P2001,Gear Assembly A,Gear Assembly,75.00,5.200,t
+4,P2002,Gear Assembly B,Gear Assembly,88.00,6.100,t
+5,P3001,Industrial Pump,Industrial Pump,120.00,12.500,t

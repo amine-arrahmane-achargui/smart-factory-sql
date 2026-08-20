@@ -1,0 +1,4 @@
+line_id,line_code,line_name,description,status,created_at
+1,L01,Precision Assembly Line,Assembly of precision mechanical components,ACTIVE,2026-08-19 20:20:09.804455
+2,L02,Heavy Machining Line,CNC machining and finishing of heavy components,ACTIVE,2026-08-19 20:20:09.804455
+3,L03,Final Assembly & Packaging,"Final assembly, inspection and packaging",ACTIVE,2026-08-19 20:20:09.804455
